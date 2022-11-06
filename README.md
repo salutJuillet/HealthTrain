@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="images/preview.png" width="400px"/> <br/>
-  https://youtu.be/Rdv5J-suObA
+  <a href="https://youtu.be/Rdv5J-suObA" target="_blank">https://youtu.be/Rdv5J-suObA</a>
 </div>
 
 <br/><br/>
